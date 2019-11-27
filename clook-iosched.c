@@ -163,6 +163,6 @@ module_init(clook_init);
 module_exit(clook_exit);
 
 
-MODULE_AUTHOR("Jens Axboe");
+MODULE_AUTHOR("Noe V.");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("No-op IO scheduler");
